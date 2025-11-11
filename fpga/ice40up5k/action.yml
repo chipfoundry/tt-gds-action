@@ -12,7 +12,7 @@ inputs:
     type: string
   tools-ref:
     description: 'Override tt-support-tools branch/tag/commit'
-    default: 'efabless'
+    default: 'chipfoundry'
     required: false
     type: string
 
